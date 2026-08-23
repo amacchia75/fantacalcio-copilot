@@ -1,0 +1,65 @@
+[
+  {
+    "id": "rival-1",
+    "name": "Gioiese Calcio",
+    "manager": "Antonio Gangemi",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-2",
+    "name": "Herta Baccaio",
+    "manager": "Ciapettt",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-3",
+    "name": "FC Peloritani 1900",
+    "manager": "Santosubito",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-4",
+    "name": "Lecce",
+    "manager": "AndreaMaglie81",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-5",
+    "name": "Scemi di Merda",
+    "manager": "Finoalfine",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-6",
+    "name": "Cipensaconcas",
+    "manager": "Ardito",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-7",
+    "name": "Pumas",
+    "manager": "Marco Catalano",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-8",
+    "name": "Maledettese",
+    "manager": "Josh Lamanna Gale Cuciuffo",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  },
+  {
+    "id": "rival-9",
+    "name": "Cuore Biancone",
+    "manager": "Bruno Esposito",
+    "spentCredits": 0,
+    "remainingCredits": 500
+  }
+]
